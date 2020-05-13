@@ -1,0 +1,13 @@
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\bin\Debug\netcoreapp3.1\10.05.2020task.exe
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\bin\Debug\netcoreapp3.1\10.05.2020task.deps.json
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\bin\Debug\netcoreapp3.1\10.05.2020task.runtimeconfig.json
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\bin\Debug\netcoreapp3.1\10.05.2020task.runtimeconfig.dev.json
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\bin\Debug\netcoreapp3.1\10.05.2020task.dll
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\bin\Debug\netcoreapp3.1\10.05.2020task.pdb
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\obj\Debug\netcoreapp3.1\10.05.2020task.csprojAssemblyReference.cache
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\obj\Debug\netcoreapp3.1\10.05.2020task.csproj.CoreCompileInputs.cache
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\obj\Debug\netcoreapp3.1\10.05.2020task.AssemblyInfoInputs.cache
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\obj\Debug\netcoreapp3.1\10.05.2020task.AssemblyInfo.cs
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\obj\Debug\netcoreapp3.1\10.05.2020task.dll
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\obj\Debug\netcoreapp3.1\10.05.2020task.pdb
+C:\Users\mirhu\source\repos\codeacademyprogramming\10-05-2020-csharp-inheritance-ShahnazMehtiyeva\10.05.2020task\10.05.2020task\obj\Debug\netcoreapp3.1\10.05.2020task.genruntimeconfig.cache
